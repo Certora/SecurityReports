@@ -30,6 +30,8 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
+| [Balancer](https://balancer.fi/)              | February 25th, 2025  | Liquidity Bootstrap Pool       | EVM      |     | ✅     | [📎](Reports/2025/02_25_2025_Balancer_LiquidityBootstrapPool-MR.pdf)       |
 | [Kamino](https://app.kamino.finance/)         | February 24th, 2025  | Lending                        | Solana   | ✅   | ✅     | [📎](Reports/2025/02_24_2025_Kamino_Lending-FV-MR.pdf)                     |
 | [EigenLayer](https://www.eigenlayer.xyz/)     | February 20th, 2025  | Slashing                       | EVM      | ✅   | ✅     | [📎](Reports/2025/02_20_2025_EigenLayer_Slashing-FV-MR.pdf)                |
 | [Balancer](https://balancer.fi/)              | February 18th, 2025  | Stablepool Surge Hooks         | EVM      |     | ✅     | [📎](Reports/2025/02_18_2025_Balancer_StableSurgeHook-MR.pdf)              |
