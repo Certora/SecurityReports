@@ -72,6 +72,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Solana Foundation](https://solana.org/)      | May 24th, 2024       | Token-2022                     | Solana   | ✅   |       | [📎](Reports/2024/05_24_2024_Token2022FV.pdf)                              |
 | [Slender](https://slender.fi/)                | May 22nd, 2024       | —                              | Stellar  |     | ✅     | [📎](Reports/2024/05_22_2024_Slender-MR.pdf)                               |
 | [Paraswap](https://www.paraswap.xyz/)         | May 22nd, 2024       | Augustus V6                    | EVM      | ✅   | ✅     | [📎](Reports/2024/05_22_2024_Paraswap_Augustus_V6-FV-MR.pdf)               |
+| [Lido](https://lido.fi/)                      | May 5th, 2024        | Dual Governance Design Review  | EVM      |     | ✅     | [📎](Reports/2024/05_05_2024_Lido_DG-DesignReview.pdf)                     |
 | [Kinto](https://www.kinto.xyz/)               | May 3rd, 2024        | Core Account Abstraction       | EVM      | ✅   | ✅     | [📎](Reports/2024/05_03_2024_Kinto_Core_Account_Abstraction-FV-MR.pdf)     |
 | [MZero](https://www.m0.org/)                  | April 30th, 2024     | MZero protocol and TTTG        | EVM      | ✅   | ✅     | [📎](Reports/2024/04_30_2024_MZero-FV-MR.pdf)                              |
 | [Curve](https://curve.fi)                     | April 30th, 2024     | Curve Crypto Pools             | EVM      | ✅   | ✅     | [📎](Reports/2024/04_30_2024_Curve-FV-MR.pdf)                              |
