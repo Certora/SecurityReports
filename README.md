@@ -36,6 +36,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [EigenLayer](https://www.eigenlayer.xyz/)     | February 20th, 2025  | Slashing                       | EVM      | ✅   | ✅     | [📎](Reports/2025/02_20_2025_EigenLayer_Slashing-FV-MR.pdf)                |
 | [Lido](https://lido.fi/)                      | February 18th, 2025  | Dual Governance ReAudit        | EVM      | ✅   | ✅     | [📎](Reports/2025/02_18_2025_Lido_DG_ReAudit-FV-MR.pdf)                    |
 | [Balancer](https://balancer.fi/)              | February 18th, 2025  | Stablepool Surge Hooks         | EVM      |     | ✅     | [📎](Reports/2025/02_18_2025_Balancer_StableSurgeHook-MR.pdf)              |
+| [Squads](https://squads.so/)                  | February 15th, 2025  | Smart Account Program          | Solana   | ✅   | ✅    | [📎](Reports/2025/02_15_2025_Squads-FV-MR.pdf)                             |
 | [Relend Network](https://relend.network/)     | February 12th, 2025  | —                              | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Relend_Network-MR.pdf)                        |
 | [Balancer](https://balancer.fi/)              | February 12th, 2025  | MEV Tax Hook                   | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Balancer_MEV_Tax_Hook-MR.pdf)                 |
 | [Whetstone](https://whetstone.cc/)            | February 12th, 2025  | Doppler                        | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Whetstone_Doppler-MR.pdf)                     |
