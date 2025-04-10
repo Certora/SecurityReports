@@ -30,13 +30,15 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
+| [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)              |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
 | [Balancer](https://balancer.fi/)              | February 25th, 2025  | Liquidity Bootstrap Pool       | EVM      |     | ✅     | [📎](Reports/2025/02_25_2025_Balancer_LiquidityBootstrapPool-MR.pdf)       |
 | [Kamino](https://app.kamino.finance/)         | February 24th, 2025  | Lending                        | Solana   | ✅   | ✅     | [📎](Reports/2025/02_24_2025_Kamino_Lending-FV-MR.pdf)                     |
 | [EigenLayer](https://www.eigenlayer.xyz/)     | February 20th, 2025  | Slashing                       | EVM      | ✅   | ✅     | [📎](Reports/2025/02_20_2025_EigenLayer_Slashing-FV-MR.pdf)                |
 | [Lido](https://lido.fi/)                      | February 18th, 2025  | Dual Governance ReAudit        | EVM      | ✅   | ✅     | [📎](Reports/2025/02_18_2025_Lido_DG_ReAudit-FV-MR.pdf)                    |
 | [Balancer](https://balancer.fi/)              | February 18th, 2025  | Stablepool Surge Hooks         | EVM      |     | ✅     | [📎](Reports/2025/02_18_2025_Balancer_StableSurgeHook-MR.pdf)              |
-| [Squads](https://squads.so/)                  | February 15th, 2025  | Smart Account Program          | Solana   | ✅   | ✅    | [📎](Reports/2025/02_15_2025_Squads-FV-MR.pdf)                             |
+| [Squads](https://squads.so/)                  | February 15th, 2025  | Smart Account Program          | Solana   | ✅   | ✅     | [📎](Reports/2025/02_15_2025_Squads-FV-MR.pdf)                             |
 | [Relend Network](https://relend.network/)     | February 12th, 2025  | —                              | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Relend_Network-MR.pdf)                        |
 | [Balancer](https://balancer.fi/)              | February 12th, 2025  | MEV Tax Hook                   | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Balancer_MEV_Tax_Hook-MR.pdf)                 |
 | [Whetstone](https://whetstone.cc/)            | February 12th, 2025  | Doppler                        | EVM      |     | ✅     | [📎](Reports/2025/02_12_2025_Whetstone_Doppler-MR.pdf)                     |
@@ -44,7 +46,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Lido](https://lido.fi/)                      | February 5th, 2025   | Dual Governance                | EVM      | ✅   | ✅     | [📎](Reports/2025/02_05_2025_Lido_DG-FV-MR.pdf)                            |
 | [Blend](https://www.blend.capital/)           | January 30th, 2025   | V1                             | Stellar  | ✅   |       | [📎](Reports/2025/01_30_2025_Blend_V1-FV.pdf)                              |
 | [Veda](https://veda.tech/)                    | January 28th, 2025   | Boring Bridge                  | Solana   |     | ✅     | [📎](Reports/2025/01_28_2025_Boring_Bridge-MR.pdf)                         |
-| [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2 Coverage Report    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_20_2025_Silo_Coverage-Coverage.pdf)                            |
+| [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2 Coverage Report    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_20_2025_Silo_Coverage-Coverage.pdf)                   |
 | [Jito](https://www.jito.network/)             | January 20th, 2025   | Tip Router                     | Solana   |     | ✅     | [📎](Reports/2025/01_20_2025_Jito_TipRouter-MR.pdf)                        |
 | [Origin](https://www.originprotocol.com/)     | January 15th, 2025   | Dollar                         | EVM      | ✅   |       | [📎](Reports/2025/01_15_2025_Origin_Dollar-FV.pdf)                         |
 | [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2                    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_07_2025_Silo_V2-FV-MR.pdf)                            |
