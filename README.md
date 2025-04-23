@@ -31,7 +31,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
-| [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)              |
+| [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)                        |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
 | [Balancer](https://balancer.fi/)              | February 25th, 2025  | Liquidity Bootstrap Pool       | EVM      |     | ✅     | [📎](Reports/2025/02_25_2025_Balancer_LiquidityBootstrapPool-MR.pdf)       |
 | [Kamino](https://app.kamino.finance/)         | February 24th, 2025  | Lending                        | Solana   | ✅   | ✅     | [📎](Reports/2025/02_24_2025_Kamino_Lending-FV-MR.pdf)                     |
@@ -59,6 +59,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Frax](https://frax.finance/)                 | December 10th, 2024  | Bamm                           | EVM      | ✅   | ✅     | [📎](Reports/2024/12_10_2024_Frax_Bamm-FV-MR.pdf)                          |
 | [Sonic](https://www.soniclabs.com/)           | December 6th, 2024   | Gateway                        | EVM      | ✅   | ✅     | [📎](Reports/2024/12_06_2024_Sonic_Gateway-FV-MR.pdf)                      |
 | [Manifest](https://www.manifest.trade/)       | December 4th, 2024   | —                              | Solana   | ✅   | ✅     | [📎](Reports/2024/12_04_2024_Manifest-FV-MR.pdf)                           |
+| [Glow](https://glow.app/)                     | December 4th, 2024   | V1                             | Solana   |     | ✅     | [📎](Reports/2024/12_04_2024_Glow_V1-MR.pdf)                               |
 | [Balancer](https://balancer.fi/)              | November 27th, 2024  | V3                             | EVM      | ✅   | ✅     | [📎](Reports/2024/11_27_2024_Balancer_V3-FV-MR.pdf)                        |
 | [Alluvial](https://alluvial.finance/)         | November 26th, 2024  | Liquid Collective              | EVM      | ✅   | ✅     | [📎](Reports/2024/11_26_2024_Alluvial_LiquidCollective-FV-MR.pdf)          |
 | [Fragmetric](https://fragmetric.xyz/)         | November 25th, 2024  | —                              | Solana   | ✅   | ✅     | [📎](Reports/2024/11_25_2024_Fragmetric-FV-MR.pdf)                         |
