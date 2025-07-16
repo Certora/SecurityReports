@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
 | [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)                        |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
@@ -92,6 +93,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Blend](https://www.blend.capital/)           | January 25th, 2024   | V1                             | Stellar  |     | ✅     | [📎](Reports/2024/01_25_2024_Blend-MR.pdf)                                 |
 | [Ajna](https://www.ajna.finance/)             | January 8th, 2024    | —                              | EVM      | ✅   | ✅     | [📎](Reports/2024/01_08_2024_Ajna-FV-MR.pdf)                               |
 | [Aave](https://aave.com/)                     | December 21st, 2023  | GHO Stability Module           | EVM      | ✅   | ✅     | [📎](Reports/2023/12_21_2023_GHO_Stability_Module-FV-MR.pdf)               |
+| [LayerZero](https://layerzero.network/)       | December 1st, 2023    | Endpoint V2                   | EVM      | ✅   | ✅     | [📎](Reports/2023/12_01_2023_LayerZero_EndpointV2-FV.pdf) |
 | [GMX](https://gmx.io)                         | November 16th, 2023  | V2                             | EVM      | ✅   | ✅     | [📎](Reports/2023/11_16_2023_GMX_V2-FV-MR.pdf)                             |
 | [Aave](https://aave.com/)                     | July 27th, 2023      | stkToken V3                    | EVM      | ✅   |       | [📎](Reports/2023/07_27_2023_Aave_stkToken_V3-FV.pdf)                      |
 | [Aave](https://aave.com/)                     | July 15th, 2023      | Governance V3                  | EVM      | ✅   | ✅     | [📎](Reports/2023/07_15_2023_Aave_Governance_V3-FV-MR.pdf)                 |
