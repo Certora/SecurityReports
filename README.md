@@ -31,6 +31,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
 | [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
+| [Claynosaurz](https://claynosaurz.com/)       | April 18th, 2025     | NFT                            | Sui      |     | ✅     | [📎](Reports/2025/04_18_2025_Claynosaurz_NFT.pdf)                 |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
 | [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)                        |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
