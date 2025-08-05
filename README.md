@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Safe](https://safe.global/)                  | June 16th, 2025      | Safe v1.5.0                    | EVM      | ✅   | ✅     | [📎](Reports/2025/06_16_2025_Safe_v1.5.0-FV-MR.pdf)                  |
 | [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
 | [Claynosaurz](https://claynosaurz.com/)       | April 18th, 2025     | NFT                            | Sui      |     | ✅     | [📎](Reports/2025/04_18_2025_Claynosaurz_NFT.pdf)                 |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
