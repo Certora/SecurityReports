@@ -30,7 +30,10 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/21_10_2025_Safe_Mobile.pdf)                  |
+| [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/28_07_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
+| [Kamino](https://app.kamino.finance/)    | July 7th, 2025      | Kamino Vault  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_07_2025_Kamino_Vault.pdf)   
 | [Safe](https://safe.global/)                  | June 16th, 2025      | Safe v1.5.0                    | EVM      | ✅   | ✅     | [📎](Reports/2025/06_16_2025_Safe_v1.5.0-FV-MR.pdf)                  |
 | [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
 | [Claynosaurz](https://claynosaurz.com/)       | April 18th, 2025     | NFT                            | Sui      |     | ✅     | [📎](Reports/2025/04_18_2025_Claynosaurz_NFT.pdf)                 |
