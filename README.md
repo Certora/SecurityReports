@@ -30,7 +30,8 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
-| [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/21_10_2025_Safe_Mobile.pdf)                  |
+| [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | Ethereum | | ✅ | [📎](Reports/2025/21_10_2025_Safe_Mobile.pdf)                  |
+| [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/28_07_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
 | [Kamino](https://app.kamino.finance/)    | July 7th, 2025      | Kamino Vault  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_07_2025_Kamino_Vault.pdf)   
