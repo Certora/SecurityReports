@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | Ethereum | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
 | [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | Ethereum | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
 | [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/10_21_2025_Safe_Mobile.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_28_2025_Kamino_LIMO.pdf)                  |
