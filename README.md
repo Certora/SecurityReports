@@ -15,8 +15,8 @@ This repository hosts a comprehensive collection of formal verification (FV) rep
 ## About Certora
 
 [Certora](https://www.certora.com) specializes in formal verification and security audits for the Web3 space.
-Our flagship product, the [Certora Prover](https://www.certora.com/prover), is an [open-source tool](https://github.com/Certora/CertoraProver) for formal verification of smart contracts written for EVM-compatible chains,  Solana and Stellar.
-In particular, Solidity, Vyper, Rust, and Soroban are supported.
+Our flagship product, the [Certora Prover](https://www.certora.com/prover), is an [open-source tool](https://github.com/Certora/CertoraProver) for formal verification of smart contracts written for EVM-compatible chains, Solana, Sui, and Stellar.
+In particular, Solidity, Vyper, Rust, Move, and Soroban are supported.
 Our comprehensive approach combines automated formal verification with manual security reviews (audits) to provide the highest level of assurance for smart contract security.
 
 📚 Learn more about the technology behind Certora in our [white paper](https://www.certora.com/blog/white-paper).
@@ -30,8 +30,11 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
-| [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | Ethereum | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
-| [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | Ethereum | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
+| [Compound](https://compound.finance/)         | January 7th, 2026    | V3 Governor Whitelist          | EVM      |    | ✅  | [📎](Reports/2026/01_07_2026_Compound_V3_Governor_Whitelist.pdf) |
+| [Compound](https://compound.finance/)         | January 7th, 2026    | V3 Multiplier Plugin           | EVM      |    | ✅  | [📎](Reports/2026/01_07_2026_Compound_V3_Multiplier_Plugin.pdf) |
+| [Compound](https://compound.finance/)         | January 6th, 2026    | V3 Extended Pause              | EVM      |    | ✅  | [📎](Reports/2026/01_06_2026_Compound_V3_Extended_Pause.pdf) |
+| [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | EVM | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
+| [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | EVM | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
 | [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/10_21_2025_Safe_Mobile.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_28_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
@@ -55,7 +58,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Lido](https://lido.fi/)                      | February 5th, 2025   | Dual Governance                | EVM      | ✅   | ✅     | [📎](Reports/2025/02_05_2025_Lido_DG-FV-MR.pdf)                            |
 | [Blend](https://www.blend.capital/)           | January 30th, 2025   | V1                             | Stellar  | ✅   |       | [📎](Reports/2025/01_30_2025_Blend_V1-FV.pdf)                              |
 | [Veda](https://veda.tech/)                    | January 28th, 2025   | Boring Bridge                  | Solana   |     | ✅     | [📎](Reports/2025/01_28_2025_Boring_Bridge-MR.pdf)                         |
-| [Zaha Studio](https://zaha.studio/)           | January 24th, 2025   | Unisawp v4 hook                | Solidity |     | ✅     | [📎](Reports/2025/01_24_2025_TWAMM_Hook.pdf)                         |
+| [Zaha Studio](https://zaha.studio/)           | January 24th, 2025   | Unisawp v4 hook                | EVM      |     | ✅     | [📎](Reports/2025/01_24_2025_TWAMM_Hook.pdf)                         |
 | [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2 Coverage Report    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_20_2025_Silo_Coverage-Coverage.pdf)                   |
 | [Jito](https://www.jito.network/)             | January 20th, 2025   | Tip Router                     | Solana   |     | ✅     | [📎](Reports/2025/01_20_2025_Jito_TipRouter-MR.pdf)                        |
 | [Origin](https://www.originprotocol.com/)     | January 15th, 2025   | Dollar                         | EVM      | ✅   |       | [📎](Reports/2025/01_15_2025_Origin_Dollar-FV.pdf)                         |
