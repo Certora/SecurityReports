@@ -30,7 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
-| [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_10_2026_Lido_V3_MR.pdf) |
+| [Lido](https://lido.fi/)                      | January 13th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_13_2026_Lido_V3_MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      | ✅  |   | [📎](Reports/2026/01_10_2026_Lido_V3_FV.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 Oracle                      | EVM      |    | ✅  | [📎](Reports/2026/01_10_2026_Lido_V3_Oracle_V7_MR.pdf) |
 | [Compound](https://compound.finance/)         | January 7th, 2026    | V3 Governor Whitelist          | EVM      |    | ✅  | [📎](Reports/2026/01_07_2026_Compound_V3_Governor_Whitelist.pdf) |
