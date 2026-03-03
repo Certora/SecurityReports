@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Apyx](https://apyx.fi/)                      | March 2nd, 2026      | apxUSD                         | EVM      |    | ✅  | [📎](Reports/2026/03_02_2026_Apyx_apxUSD.pdf) |
 | [Lido](https://lido.fi/)                      | January 13th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_13_2026_Lido_V3_MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      | ✅  |   | [📎](Reports/2026/01_10_2026_Lido_V3_FV.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 Oracle                      | EVM      |    | ✅  | [📎](Reports/2026/01_10_2026_Lido_V3_Oracle_V7_MR.pdf) |
