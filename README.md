@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Kleros](https://kleros.io/)                  | March 3rd, 2026      | V2                             | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_Kleros_V2_MR.pdf) |
 | [Apyx](https://apyx.fi/)                      | March 2nd, 2026      | apxUSD                         | EVM      |    | ✅  | [📎](Reports/2026/03_02_2026_Apyx_apxUSD.pdf) |
 | [Lido](https://lido.fi/)                      | January 13th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_13_2026_Lido_V3_MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      | ✅  |   | [📎](Reports/2026/01_10_2026_Lido_V3_FV.pdf) |
