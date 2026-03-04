@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [ORBT](https://www.orbt.xyz/)                 | March 3rd, 2026      | -                              | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_ORBT_MR.pdf) |
 | [Light](https://lightprotocol.com/)           | March 3rd, 2026      | Extension                      | Solana   |    | ✅  | [📎](Reports/2026/03_03_2026_Light_Protocol_Extension_MR.pdf) |
 | [Kleros](https://kleros.io/)                  | March 3rd, 2026      | V2                             | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_Kleros_V2_MR.pdf) |
 | [Apyx](https://apyx.fi/)                      | March 2nd, 2026      | apxUSD                         | EVM      |    | ✅  | [📎](Reports/2026/03_02_2026_Apyx_apxUSD.pdf) |
