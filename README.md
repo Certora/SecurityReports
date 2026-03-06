@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [1delta DAO & Compound](https://www.1delta.io/) | March 6th, 2026      | Compound Integration         | EVM      |    | ✅  | [📎](Reports/2026/03_06_2026_1delta_Compound_Integration_MR.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | -           | EVM      | ✅  |   | [📎](Reports/2026/03_05_2026_Cozy_Finance_FV.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | Router Euler Helpers           | EVM      |    | ✅  | [📎](Reports/2026/03_05_2026_Cozy_Router_Euler_Helpers_MR.pdf) |
 | [ORBT](https://www.orbt.xyz/)                 | March 3rd, 2026      | -                              | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_ORBT_MR.pdf) |
