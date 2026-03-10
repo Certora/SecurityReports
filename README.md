@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Calastone](https://www.calastone.com/)       | March 10th, 2026     | CTD                            | EVM      |    | ✅  | [📎](Reports/2026/03_10_2026_Calastone_CTD-MR.pdf) |
 | [1delta](https://www.1delta.io/)              | March 6th, 2026      | Compound Integration           | EVM      |    | ✅  | [📎](Reports/2026/03_06_2026_1delta_Compound_Integration_MR.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | -                              | EVM      | ✅  |   | [📎](Reports/2026/03_05_2026_Cozy_Finance_FV.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | Router Euler Helpers           | EVM      |    | ✅  | [📎](Reports/2026/03_05_2026_Cozy_Router_Euler_Helpers_MR.pdf) |
