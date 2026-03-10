@@ -46,7 +46,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | EVM | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
 | [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | EVM | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
 | [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/10_21_2025_Safe_Mobile.pdf) |
-| [1inch](https://1inch.com/)             | September 29th, 2025      | Cross-Chain Swap                    | EVM      |    | ✅     | [📎](Reports/2025/09_29_2025_1inch_Cross_Chain_Swap_FV.pdf) |
+| [1inch](https://1inch.com/)             | September 29th, 2025      | Cross-Chain Swap                | EVM      |    | ✅  | [📎](Reports/2025/09_29_2025_1inch_Cross_Chain_Swap-MR.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_28_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
 | [Kamino](https://app.kamino.finance/)    | July 7th, 2025      | Kamino Vault  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_07_2025_Kamino_Vault.pdf)   
