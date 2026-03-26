@@ -30,6 +30,8 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Suilend](https://suilend.fi/)                | March 24th, 2026     | Liquid Staking                 | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend_Liquid_Staking-FV-MR.pdf) |
+| [Suilend](https://suilend.fi/)                | March 24th, 2026     | Suilend                        | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend-FV-MR.pdf) |
 | [Calastone](https://www.calastone.com/)       | March 10th, 2026     | CTD                            | EVM      |    | ✅  | [📎](Reports/2026/03_10_2026_Calastone_CTD-MR.pdf) |
 | [1delta](https://www.1delta.io/)              | March 6th, 2026      | Compound Integration           | EVM      |    | ✅  | [📎](Reports/2026/03_06_2026_1delta_Compound_Integration_MR.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | -                              | EVM      | ✅  |   | [📎](Reports/2026/03_05_2026_Cozy_Finance_FV.pdf) |
@@ -98,7 +100,6 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Huma](https://huma.finance/)                 | July 4th, 2024       | —                              | Stellar  |     | ✅     | [📎](Reports/2024/07_04_2024_Huma-MR.pdf)                                  |
 | [Aave](https://aave.com/)                     | June 20th, 2024      | Risk Steward                   | EVM      | ✅   | ✅     | [📎](Reports/2024/06_20_2024_Aave_Risk_Steward-FV-MR.pdf)                  |
 | [Tether](https://tether.to)                   | June 4th, 2024       | Token                          | EVM      | ✅   | ✅     | [📎](Reports/2024/06_04_2024_Tether_Token-FV-MR.pdf)                       |
-| [Warp](https://warp.io/)                      | May 30th, 2024       | Exchange                       | EVM      | ✅   | ✅     | [📎](Reports/2024/05_30_2024_Warp_Exchange-FV-MR.pdf)                      |
 | [Solana Foundation](https://solana.org/)      | May 24th, 2024       | Token-2022                     | Solana   | ✅   |       | [📎](Reports/2024/05_24_2024_Token2022FV.pdf)                              |
 | [Slender](https://slender.fi/)                | May 22nd, 2024       | —                              | Stellar  |     | ✅     | [📎](Reports/2024/05_22_2024_Slender-MR.pdf)                               |
 | [Paraswap](https://www.paraswap.xyz/)         | May 22nd, 2024       | Augustus V6                    | EVM      | ✅   | ✅     | [📎](Reports/2024/05_22_2024_Paraswap_Augustus_V6-FV-MR.pdf)               |
