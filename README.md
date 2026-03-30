@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Templar](https://www.templarfi.org/)         | March 30th, 2026     | -                              | NEAR      | ✅  | ✅  | [📎](Reports/2026/03_30_2026_Templar-FV-MR.pdf) |
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Liquid Staking                 | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend_Liquid_Staking-FV-MR.pdf) |
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Suilend                        | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend-FV-MR.pdf) |
 | [Calastone](https://www.calastone.com/)       | March 10th, 2026     | CTD                            | EVM      |    | ✅  | [📎](Reports/2026/03_10_2026_Calastone_CTD-MR.pdf) |
