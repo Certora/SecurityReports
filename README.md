@@ -30,7 +30,9 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
-| [Compound](https://compound.finance/)         | April 2nd, 2026      | rETH CAPO                      | EVM      |   | ✅  | [📎](Reports/2026/04_02_2026_Compound_rETH_CAPO_by_Woof-MR) |
+| [Umia](https://www.umia.finance/)         | April 13th, 2026      | Chainbound                        | EVM      |   | ✅  | [📎](Reports/2026/04_13_2026_Umia_Chainbound-MR.pdf) |
+| [Reserve](https://reserve.org/)         | April 2nd, 2026      | -                      | EVM      | ✅  |   | [📎](Reports/2026/04_02_2026_Reserve_Fixed_lib-FV.pdf‎) |
+| [Compound](https://compound.finance/)         | April 2nd, 2026      | rETH CAPO                      | EVM      |   | ✅  | [📎](Reports/2026/04_02_2026_Compound_rETH_CAPO_by_Woof-MR.pdf) |
 | [Templar](https://www.templarfi.org/)         | March 30th, 2026     | -                              | NEAR      | ✅  | ✅  | [📎](Reports/2026/03_30_2026_Templar-FV-MR.pdf) |
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Liquid Staking                 | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend_Liquid_Staking-FV-MR.pdf) |
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Suilend                        | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend-FV-MR.pdf) |
