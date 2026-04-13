@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [TradePort](https://www.tradeport.xyz/)       | April 13th, 2026     | Gold Strategy                  | Sui      |   | ✅  | [📎](Reports/2026/04_13_2026_TradePort_Gold_Strategy-MR.pdf) |
 | [Umia](https://www.umia.finance/)         | April 13th, 2026      | Chainbound                        | EVM      |   | ✅  | [📎](Reports/2026/04_13_2026_Umia_Chainbound-MR.pdf) |
 | [Reserve](https://reserve.org/)         | April 2nd, 2026      | -                      | EVM      | ✅  |   | [📎](Reports/2026/04_02_2026_Reserve_Fixed_lib-FV.pdf‎) |
 | [Compound](https://compound.finance/)         | April 2nd, 2026      | rETH CAPO                      | EVM      |   | ✅  | [📎](Reports/2026/04_02_2026_Compound_rETH_CAPO_by_Woof-MR.pdf) |
