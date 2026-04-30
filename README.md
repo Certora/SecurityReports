@@ -30,6 +30,8 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Saturn](https://saturn.credit/)              | April 30th, 2026     | M0 Extensions                  | EVM      | ✅  | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar_M0_Extensions-FV-MR.pdf) |
+| [Saturn](https://saturn.credit/)              | April 30th, 2026     | -                              | EVM      |   | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar-MR.pdf) |
 | [Veda](https://veda.tech/)                    | April 27th, 2026     | Yield Streaming                | EVM      |   | ✅  | [📎](Reports/2026/04_27_2026_Veda_Yield_Streaming-MR.pdf) |
 | [Compound](https://compound.finance/)         | April 24th, 2026     | Treasury Manager               | EVM      |   | ✅  | [📎](Reports/2026/04_24_2026_Compound_Treasury_Manager-MR.pdf) |
 | [TradePort](https://www.tradeport.xyz/)       | April 13th, 2026     | Gold Strategy                  | Sui      |   | ✅  | [📎](Reports/2026/04_13_2026_TradePort_Gold_Strategy-MR.pdf) |
