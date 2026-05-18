@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Veda](https://veda.tech/)                    | May 18th, 2026       | Fuzz & Invariant Testing       | EVM      |   | ✅  | [📎](Reports/2026/05_30_2026_Veda_Fuzzing_Report.pdf) |
 | [Saturn](https://saturn.credit/)              | April 30th, 2026     | M0 Extensions                  | EVM      | ✅  | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar_M0_Extensions-FV-MR.pdf) |
 | [Saturn](https://saturn.credit/)              | April 30th, 2026     | -                              | EVM      |   | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar-MR.pdf) |
 | [Veda](https://veda.tech/)                    | April 27th, 2026     | Yield Streaming                | EVM      |   | ✅  | [📎](Reports/2026/04_27_2026_Veda_Yield_Streaming-MR.pdf) |
