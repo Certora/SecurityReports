@@ -30,6 +30,8 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Compound](https://compound.finance/)         | May 26th, 2026       | BytecodeRepository             | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_BytecodeRepository-MR.pdf) |
+| [Compound](https://compound.finance/)         | May 26th, 2026       | Comet Service Patch            | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_Comet_Service_Patch-MR.pdf) |
 | [Veda](https://veda.tech/)                    | May 19th, 2026       | Incentive Teller System        | EVM      |   | ✅  | [📎](Reports/2026/05_19_2026_Veda_Incentive_Teller_System-MR.pdf) |
 | [Veda](https://veda.tech/)                    | May 18th, 2026       | Fuzz & Invariant Testing       | EVM      |   | ✅  | [📎](Reports/2026/05_18_2026_Veda_Fuzzing_Report.pdf) |
 | [Saturn](https://saturn.credit/)              | April 30th, 2026     | M0 Extensions                  | EVM      | ✅  | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar_M0_Extensions-FV-MR.pdf) |
