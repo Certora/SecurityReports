@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Spark](https://spark.fi/)                    | May 30th, 2026       | ALM Controller v1.8.0          | EVM      |   | ✅  | [📎](Reports/2026/05_30_2026_Spark_ALM_Controller_v1.8.0-MR.pdf) |
 | [Compound](https://compound.finance/)         | May 26th, 2026       | BytecodeRepository             | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_BytecodeRepository-MR.pdf) |
 | [Compound](https://compound.finance/)         | May 26th, 2026       | Comet Service Patch            | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_Comet_Service_Patch-MR.pdf) |
 | [Veda](https://veda.tech/)                    | May 19th, 2026       | Incentive Teller System        | EVM      |   | ✅  | [📎](Reports/2026/05_19_2026_Veda_Incentive_Teller_System-MR.pdf) |
