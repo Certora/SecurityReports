@@ -30,10 +30,18 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Spark](https://spark.fi/)                    | May 30th, 2026       | ALM Controller v1.8.0          | EVM      |   | ✅  | [📎](Reports/2026/05_30_2026_Spark_ALM_Controller_v1.8.0-MR.pdf) |
+| [Compound](https://compound.finance/)         | May 26th, 2026       | BytecodeRepository             | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_BytecodeRepository-MR.pdf) |
+| [Compound](https://compound.finance/)         | May 26th, 2026       | Comet Service Patch            | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_Comet_Service_Patch-MR.pdf) |
+| [Veda](https://veda.tech/)                    | May 19th, 2026       | Incentive Teller System        | EVM      |   | ✅  | [📎](Reports/2026/05_19_2026_Veda_Incentive_Teller_System-MR.pdf) |
+| [Veda](https://veda.tech/)                    | May 18th, 2026       | Fuzz & Invariant Testing       | EVM      |   | ✅  | [📎](Reports/2026/05_18_2026_Veda_Fuzzing_Report.pdf) |
+| [Saturn](https://saturn.credit/)              | April 30th, 2026     | M0 Extensions                  | EVM      | ✅  | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar_M0_Extensions-FV-MR.pdf) |
+| [Saturn](https://saturn.credit/)              | April 30th, 2026     | -                              | EVM      |   | ✅  | [📎](Reports/2026/04_30_2026_Saturn_Dollar-MR.pdf) |
+| [Veda](https://veda.tech/)                    | April 27th, 2026     | Yield Streaming                | EVM      |   | ✅  | [📎](Reports/2026/04_27_2026_Veda_Yield_Streaming-MR.pdf) |
 | [Compound](https://compound.finance/)         | April 24th, 2026     | Treasury Manager               | EVM      |   | ✅  | [📎](Reports/2026/04_24_2026_Compound_Treasury_Manager-MR.pdf) |
 | [TradePort](https://www.tradeport.xyz/)       | April 13th, 2026     | Gold Strategy                  | Sui      |   | ✅  | [📎](Reports/2026/04_13_2026_TradePort_Gold_Strategy-MR.pdf) |
-| [Umia](https://www.umia.finance/)         | April 13th, 2026      | Chainbound                        | EVM      |   | ✅  | [📎](Reports/2026/04_13_2026_Umia_Chainbound-MR.pdf) |
-| [Reserve](https://reserve.org/)         | April 2nd, 2026      | -                      | EVM      | ✅  |   | [📎](Reports/2026/04_02_2026_Reserve_Fixed_lib-FV.pdf) |
+| [Umia](https://www.umia.finance/)         | April 13th, 2026      | -                        | EVM      |   | ✅  | [📎](Reports/2026/04_13_2026_Umia-MR.pdf) |
+| [Reserve](https://reserve.org/)           | April 2nd, 2026       | -                        | EVM      | ✅  |   | [📎](Reports/2026/04_02_2026_Reserve_Fixed_lib-FV.pdf) |
 | [Compound](https://compound.finance/)         | April 2nd, 2026      | rETH CAPO                      | EVM      |   | ✅  | [📎](Reports/2026/04_02_2026_Compound_rETH_CAPO_by_Woof-MR.pdf) |
 | [Templar](https://www.templarfi.org/)         | March 30th, 2026     | -                              | NEAR      | ✅  | ✅  | [📎](Reports/2026/03_30_2026_Templar-FV-MR.pdf) |
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Liquid Staking                 | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend_Liquid_Staking-FV-MR.pdf) |
