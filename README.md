@@ -30,6 +30,7 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Spectra](https://www.spectra.finance/)       | June 10th, 2026      | Stellar↔Eth Bridge             | Stellar  |     | ✅ | [📎](Reports/2026/06_10_2026_Spectra_Bridge-MR.pdf) |
 | [Solana](https://solana.org/)                 | June 4th, 2026       | P-Token                        | Solana   | ✅  |   | [📎](Reports/2026/06_04_2026_Solana_P-Token-FV.pdf) |
 | [Den](https://onchainden.com/)                | June 2nd, 2026       | MLS Wallet                     | EVM      |   | ✅  | [📎](Reports/2026/06_02_2026_Den_MLS_Wallet-MR.pdf) |
 | [Spark](https://spark.fi/)                    | May 30th, 2026       | ALM Controller v1.8.0          | EVM      |   | ✅  | [📎](Reports/2026/05_30_2026_Spark_ALM_Controller_v1.8.0-MR.pdf) |
