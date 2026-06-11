@@ -91,6 +91,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Blend](https://www.blend.capital/)           | January 30th, 2025   | V1                             | Stellar  | ✅   |       | [📎](Reports/2025/01_30_2025_Blend_V1-FV.pdf)                              |
 | [Veda](https://veda.tech/)                    | January 28th, 2025   | Boring Bridge                  | Solana   |     | ✅     | [📎](Reports/2025/01_28_2025_Boring_Bridge-MR.pdf)                         |
 | [Zaha Studio](https://zaha.studio/)           | January 24th, 2025   | Unisawp v4 hook                | EVM      |     | ✅     | [📎](Reports/2025/01_24_2025_TWAMM_Hook.pdf)                         |
+| [ether.fi](https://www.ether.fi/)             | January 23th, 2025   | Withdrawal Fee                 | EVM      |     | ✅     | [📎](Reports/2025/01_23_2025_ether.fi_Withdrawal_Fee-MR.pdf) |
 | [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2 Coverage Report    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_20_2025_Silo_Coverage-Coverage.pdf)                   |
 | [Jito](https://www.jito.network/)             | January 20th, 2025   | Tip Router                     | Solana   |     | ✅     | [📎](Reports/2025/01_20_2025_Jito_TipRouter-MR.pdf)                        |
 | [Origin](https://www.originprotocol.com/)     | January 15th, 2025   | Dollar                         | EVM      | ✅   |       | [📎](Reports/2025/01_15_2025_Origin_Dollar-FV.pdf)                         |
