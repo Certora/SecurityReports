@@ -66,15 +66,21 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Compound](https://compound.finance/)         | January 6th, 2026    | V3 Extended Pause              | EVM      |    | ✅  | [📎](Reports/2026/01_06_2026_Compound_V3_Extended_Pause.pdf) |
 | [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | EVM | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
 | [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | EVM | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
+| [ether.fi](https://www.ether.fi/)             | November 12th, 2025   | Updates                      | EVM      |     | ✅     | [📎](Reports/2025/11_12_2025_ether.fi_Safe_Key_Gen,Cons._Role,Restaker_bugFix-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | October 6th, 2025     | Updates                      | EVM      |     | ✅     | [📎](Reports/2025/10_06_2025_ether.fi_Pectra,stETH_wds,weETH_adapter-MR.pdf) |
 | [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/10_21_2025_Safe_Mobile.pdf) |
 | [1inch](https://1inch.com/)             | September 29th, 2025      | Cross-Chain Swap                | EVM      |    | ✅  | [📎](Reports/2025/09_29_2025_1inch_Cross_Chain_Swap-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | August 1st, 2025     | V3 Prelude                     | EVM      |     | ✅     | [📎](Reports/2025/08_01_2025_ether.fi_V3.Prelude.1-MR.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_28_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
 | [Kamino](https://app.kamino.finance/)    | July 7th, 2025      | Kamino Vault  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_07_2025_Kamino_Vault.pdf)   
 | [Safe](https://safe.global/)                  | June 16th, 2025      | Safe v1.5.0                    | EVM      | ✅   | ✅     | [📎](Reports/2025/06_16_2025_Safe_v1.5.0-FV-MR.pdf)                  |
 | [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
+| [ether.fi](https://www.ether.fi/)             | May 7th, 2025        | Cumulative Merkle Distributor  | EVM      |     | ✅     | [📎](Reports/2025/05_07_2025_ether.fi_Cumulative_Merkle_Distributor-MR.pdf) |
 | [Claynosaurz](https://claynosaurz.com/)       | April 18th, 2025     | NFT                            | Sui      |     | ✅     | [📎](Reports/2025/04_18_2025_Claynosaurz_NFT.pdf)                 |
+| [ether.fi](https://www.ether.fi/)             | April 12th, 2025     | Eigenlayer Slashing            | EVM      |     | ✅     | [📎](Reports/2025/04_12_2025_ether.fi_EigenLayer_Slashing-MR.pdf) |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
+| [ether.fi](https://www.ether.fi/)             | March 23th, 2025     | v2.49                          | EVM      |     | ✅     | [📎](Reports/2025/03_26_2025_ether.fi_v2.49-MR.pdf) |
 | [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)                        |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
 | [Balancer](https://balancer.fi/)              | February 25th, 2025  | Liquidity Bootstrap Pool       | EVM      |     | ✅     | [📎](Reports/2025/02_25_2025_Balancer_LiquidityBootstrapPool-MR.pdf)       |
