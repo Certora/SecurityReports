@@ -52,15 +52,15 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Suilend                        | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend-FV-MR.pdf) |
 | [Calastone](https://www.calastone.com/)       | March 10th, 2026     | CTD                            | EVM      |    | ✅  | [📎](Reports/2026/03_10_2026_Calastone_CTD-MR.pdf) |
 | [1delta](https://www.1delta.io/)              | March 6th, 2026      | Compound Integration           | EVM      |    | ✅  | [📎](Reports/2026/03_06_2026_1delta_Compound_Integration_MR.pdf) |
-| [ether.fi](https://www.ether.fi/)             | March 5th, 2026      | Priority Queue                 | EVM      |     | ✅ | [📎](Reports/2025/03_05_2026_ether.fi_Priority_Queue-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | March 5th, 2026      | Priority Queue                 | EVM      |     | ✅ | [📎](Reports/2026/03_05_2026_ether.fi_Priority_Queue-MR.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | -                              | EVM      | ✅  |   | [📎](Reports/2026/03_05_2026_Cozy_Finance_FV.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | Router Euler Helpers           | EVM      |    | ✅  | [📎](Reports/2026/03_05_2026_Cozy_Router_Euler_Helpers_MR.pdf) |
 | [ORBT](https://www.orbt.xyz/)                 | March 3rd, 2026      | -                              | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_ORBT_MR.pdf) |
 | [Light](https://lightprotocol.com/)           | March 3rd, 2026      | Extension                      | Solana   |    | ✅  | [📎](Reports/2026/03_03_2026_Light_Extension_MR.pdf) |
 | [Kleros](https://kleros.io/)                  | March 3rd, 2026      | V2                             | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_Kleros_V2_MR.pdf) |
 | [Apyx](https://apyx.fi/)                      | March 2nd, 2026      | apxUSD                         | EVM      |    | ✅  | [📎](Reports/2026/03_02_2026_Apyx_apxUSD.pdf) |
-| [ether.fi](https://www.ether.fi/)             | January 29th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2025/01_29_2026_ether.fi_Reaudit_Core_Contracts-MR.pdf) |
-| [ether.fi](https://www.ether.fi/)             | January 20th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2025/01_20_2026_ether.fi_Liquid-Refer,KING,Cross_Pod_Approval-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | January 29th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2026/01_29_2026_ether.fi_Reaudit_Core_Contracts-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | January 20th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2026/01_20_2026_ether.fi_Liquid-Refer,KING,Cross_Pod_Approval-MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 13th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_13_2026_Lido_V3_MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      | ✅  |   | [📎](Reports/2026/01_10_2026_Lido_V3_FV.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 Oracle                      | EVM      |    | ✅  | [📎](Reports/2026/01_10_2026_Lido_V3_Oracle_V7_MR.pdf) |
