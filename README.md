@@ -30,6 +30,10 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
+| [Royco](https://www.royco.org/)               | June 10th, 2026      | Dawn                           | EVM      |     | ✅ | [📎](Reports/2026/06_10_2026_Royco_Dawn-MR.pdf) |
+| [Spectra](https://www.spectra.finance/)       | June 10th, 2026      | Stellar↔Eth Bridge             | Stellar  |     | ✅ | [📎](Reports/2026/06_10_2026_Spectra_Bridge-MR.pdf) |
+| [Solana](https://solana.org/)                 | June 4th, 2026       | P-Token                        | Solana   | ✅  |   | [📎](Reports/2026/06_04_2026_Solana_P-Token-FV.pdf) |
+| [Den](https://onchainden.com/)                | June 2nd, 2026       | MLS Wallet                     | EVM      |   | ✅  | [📎](Reports/2026/06_02_2026_Den_MLS_Wallet-MR.pdf) |
 | [Spark](https://spark.fi/)                    | May 30th, 2026       | ALM Controller v1.8.0          | EVM      |   | ✅  | [📎](Reports/2026/05_30_2026_Spark_ALM_Controller_v1.8.0-MR.pdf) |
 | [Compound](https://compound.finance/)         | May 26th, 2026       | BytecodeRepository             | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_BytecodeRepository-MR.pdf) |
 | [Compound](https://compound.finance/)         | May 26th, 2026       | Comet Service Patch            | EVM      |   | ✅  | [📎](Reports/2026/05_26_2026_Compound_Comet_Service_Patch-MR.pdf) |
@@ -48,12 +52,15 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Suilend](https://suilend.fi/)                | March 24th, 2026     | Suilend                        | Sui      | ✅  | ✅  | [📎](Reports/2026/03_24_2026_Suilend-FV-MR.pdf) |
 | [Calastone](https://www.calastone.com/)       | March 10th, 2026     | CTD                            | EVM      |    | ✅  | [📎](Reports/2026/03_10_2026_Calastone_CTD-MR.pdf) |
 | [1delta](https://www.1delta.io/)              | March 6th, 2026      | Compound Integration           | EVM      |    | ✅  | [📎](Reports/2026/03_06_2026_1delta_Compound_Integration_MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | March 5th, 2026      | Priority Queue                 | EVM      |     | ✅ | [📎](Reports/2026/03_05_2026_ether.fi_Priority_Queue-MR.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | -                              | EVM      | ✅  |   | [📎](Reports/2026/03_05_2026_Cozy_Finance_FV.pdf) |
 | [Cozy Finance](https://www.cozy.finance/)     | March 5th, 2026      | Router Euler Helpers           | EVM      |    | ✅  | [📎](Reports/2026/03_05_2026_Cozy_Router_Euler_Helpers_MR.pdf) |
 | [ORBT](https://www.orbt.xyz/)                 | March 3rd, 2026      | -                              | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_ORBT_MR.pdf) |
 | [Light](https://lightprotocol.com/)           | March 3rd, 2026      | Extension                      | Solana   |    | ✅  | [📎](Reports/2026/03_03_2026_Light_Extension_MR.pdf) |
 | [Kleros](https://kleros.io/)                  | March 3rd, 2026      | V2                             | EVM      |    | ✅  | [📎](Reports/2026/03_03_2026_Kleros_V2_MR.pdf) |
 | [Apyx](https://apyx.fi/)                      | March 2nd, 2026      | apxUSD                         | EVM      |    | ✅  | [📎](Reports/2026/03_02_2026_Apyx_apxUSD.pdf) |
+| [ether.fi](https://www.ether.fi/)             | January 29th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2026/01_29_2026_ether.fi_Reaudit_Core_Contracts-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | January 20th, 2026   | Updates                        | EVM      |     | ✅ | [📎](Reports/2026/01_20_2026_ether.fi_Liquid-Refer,KING,Cross_Pod_Approval-MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 13th, 2026   | V3 stVaults                    | EVM      |    | ✅  | [📎](Reports/2026/01_13_2026_Lido_V3_MR.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 stVaults                    | EVM      | ✅  |   | [📎](Reports/2026/01_10_2026_Lido_V3_FV.pdf) |
 | [Lido](https://lido.fi/)                      | January 10th, 2026   | V3 Oracle                      | EVM      |    | ✅  | [📎](Reports/2026/01_10_2026_Lido_V3_Oracle_V7_MR.pdf) |
@@ -62,15 +69,21 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Compound](https://compound.finance/)         | January 6th, 2026    | V3 Extended Pause              | EVM      |    | ✅  | [📎](Reports/2026/01_06_2026_Compound_V3_Extended_Pause.pdf) |
 | [Grove](https://www.grove.finance/) | December 24th, 2025 | ALM | EVM | | ✅ | [📎](Reports/2025/12_24_2015_Grove_ALM.pdf) |
 | [Calastone](https://www.calastone.com/) | December 22nd, 2025 | Digital Investment | EVM | | ✅ | [📎](Reports/2025/12_22_2025_Calastone_Digital_Investment.pdf) |
+| [ether.fi](https://www.ether.fi/)             | November 12th, 2025   | Updates                      | EVM      |     | ✅     | [📎](Reports/2025/11_12_2025_ether.fi_Safe_Key_Gen,Cons._Role,Restaker_bugFix-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | October 6th, 2025     | Updates                      | EVM      |     | ✅     | [📎](Reports/2025/10_06_2025_ether.fi_Pectra,stETH_wds,weETH_adapter-MR.pdf) |
 | [Safe](https://safe.global/)             | October 21st, 2025      | Safe{Mobile}                    | Android, iOS      |    | ✅     | [📎](Reports/2025/10_21_2025_Safe_Mobile.pdf) |
 | [1inch](https://1inch.com/)             | September 29th, 2025      | Cross-Chain Swap                | EVM      |    | ✅  | [📎](Reports/2025/09_29_2025_1inch_Cross_Chain_Swap-MR.pdf) |
+| [ether.fi](https://www.ether.fi/)             | August 1st, 2025     | V3 Prelude                     | EVM      |     | ✅     | [📎](Reports/2025/08_01_2025_ether.fi_V3.Prelude.1-MR.pdf) |
 | [Kamino](https://app.kamino.finance/)    | July 28th, 2025      | Kamino Liquidity Integration and Matching Orders (LIMO)  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_28_2025_Kamino_LIMO.pdf)                  |
 | [Fragmetric](https://fragmetric.xyz/)             | July 18th, 2025      | Fragmetric Restaking v0.6.3                    | Solana      |    | ✅     | [📎](Reports/2025/07_18_2025_Fragmetric_Restaking_v0.6.3.pdf)                  |
 | [Kamino](https://app.kamino.finance/)    | July 7th, 2025      | Kamino Vault  | Solana      | ✅  | ✅     | [📎](Reports/2025/07_07_2025_Kamino_Vault.pdf)   
 | [Safe](https://safe.global/)                  | June 16th, 2025      | Safe v1.5.0                    | EVM      | ✅   | ✅     | [📎](Reports/2025/06_16_2025_Safe_v1.5.0-FV-MR.pdf)                  |
 | [Polygon](https://polygon.technology/)        | June 2nd, 2025       | Vault Bridge                   | EVM      |     | ✅     | [📎](Reports/2025/06_02_2025_Polygon_Vault_Bridge-MR.pdf)                  |
+| [ether.fi](https://www.ether.fi/)             | May 7th, 2025        | Cumulative Merkle Distributor  | EVM      |     | ✅     | [📎](Reports/2025/05_07_2025_ether.fi_Cumulative_Merkle_Distributor-MR.pdf) |
 | [Claynosaurz](https://claynosaurz.com/)       | April 18th, 2025     | NFT                            | Sui      |     | ✅     | [📎](Reports/2025/04_18_2025_Claynosaurz_NFT.pdf)                 |
+| [ether.fi](https://www.ether.fi/)             | April 12th, 2025     | Eigenlayer Slashing            | EVM      |     | ✅     | [📎](Reports/2025/04_12_2025_ether.fi_EigenLayer_Slashing-MR.pdf) |
 | [Texture](https://texture.finance/)           | April 10th, 2025     | Texture 2.0                    | Solana   | ✅   | ✅     | [📎](Reports/2025/04_10_2025_Texture2.0-MR-FV.pdf)                         |
+| [ether.fi](https://www.ether.fi/)             | March 23th, 2025     | v2.49                          | EVM      |     | ✅     | [📎](Reports/2025/03_26_2025_ether.fi_v2.49-MR.pdf) |
 | [Mayan](https://mayan.finance/)               | March 21st, 2025     | Fast MCTP                      | EVM      |     | ✅     | [📎](Reports/2025/03_21_2025_Mayan_FastMCTP-MR.pdf)                        |
 | [MoviePass](https://www.moviepass.com/)       | March 2nd, 2025      | MoviePass Exchange MSX         | Sui      |     | ✅     | [📎](Reports/2025/03_02_2025_MoviePass_MSX-MR.pdf)                         |
 | [Balancer](https://balancer.fi/)              | February 25th, 2025  | Liquidity Bootstrap Pool       | EVM      |     | ✅     | [📎](Reports/2025/02_25_2025_Balancer_LiquidityBootstrapPool-MR.pdf)       |
@@ -87,6 +100,7 @@ Our comprehensive approach combines automated formal verification with manual se
 | [Blend](https://www.blend.capital/)           | January 30th, 2025   | V1                             | Stellar  | ✅   |       | [📎](Reports/2025/01_30_2025_Blend_V1-FV.pdf)                              |
 | [Veda](https://veda.tech/)                    | January 28th, 2025   | Boring Bridge                  | Solana   |     | ✅     | [📎](Reports/2025/01_28_2025_Boring_Bridge-MR.pdf)                         |
 | [Zaha Studio](https://zaha.studio/)           | January 24th, 2025   | Unisawp v4 hook                | EVM      |     | ✅     | [📎](Reports/2025/01_24_2025_TWAMM_Hook.pdf)                         |
+| [ether.fi](https://www.ether.fi/)             | January 23th, 2025   | Withdrawal Fee                 | EVM      |     | ✅     | [📎](Reports/2025/01_23_2025_ether.fi_Withdrawal_Fee-MR.pdf) |
 | [Silo](https://www.silo.finance/)             | January 7th, 2025    | SiloCore V2 Coverage Report    | EVM      | ✅   | ✅     | [📎](Reports/2025/01_20_2025_Silo_Coverage-Coverage.pdf)                   |
 | [Jito](https://www.jito.network/)             | January 20th, 2025   | Tip Router                     | Solana   |     | ✅     | [📎](Reports/2025/01_20_2025_Jito_TipRouter-MR.pdf)                        |
 | [Origin](https://www.originprotocol.com/)     | January 15th, 2025   | Dollar                         | EVM      | ✅   |       | [📎](Reports/2025/01_15_2025_Origin_Dollar-FV.pdf)                         |
