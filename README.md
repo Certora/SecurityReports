@@ -30,7 +30,9 @@ Our comprehensive approach combines automated formal verification with manual se
 
 | Protocol                                      | Date                 | Project                        | Platform | FV  | Audit | Report                                                                     |
 | --------------------------------------------- | -------------------- | ------------------------------ | -------- | :-: | :---: | :------------------------------------------------------------------------: |
-| [Solana Foundation](https://solana.org/)      | July 16th, 2026      | Stake Pool                     | Solana   | ✅  | ✅   | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/07_16_2026_Solana_Stake-Pool_Formal_Verification.pdf) |
+| [Aftermath Finance](https://aftermath.finance/) | August 2026 | Perpetuals V2 | Sui | | ✅ | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/Aftermath%20Finance%20Perpetuals%20Audit%20Final%20Report.pdf) |
+| [Royco](https://www.royco.org/) | August 2026 | Day | EVM | | ✅ | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/Certora%20-%20Royco%20Day%20-%20Final%20Report.pdf) ||
+[Solana Foundation](https://solana.org/)      | July 16th, 2026      | Stake Pool                     | Solana   | ✅  | ✅   | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/07_16_2026_Solana_Stake-Pool_Formal_Verification.pdf) |
 | [Aave](https://aave.com/)                     | July 8th, 2026       | V4 Hub                         | EVM      | ✅  |       | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/07_08_2026_AaveV4-Hub_Formal_Verification.pdf) |
 | [Aave](https://aave.com/)                     | July 8th, 2026       | V4 Libraries                   | EVM      | ✅  |       | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/07_08_2026_AaveV4-Libraries_FV.pdf) |
 | [Aave](https://aave.com/)                     | July 8th, 2026       | V4 Spoke                       | EVM      | ✅  |       | [📎](https://github.com/Certora/SecurityReports/blob/main/Reports/2026/07_08_2026_AaveV4-Spoke_FV.pdf) |
